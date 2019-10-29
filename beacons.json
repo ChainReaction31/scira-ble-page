@@ -5,8 +5,8 @@
             "id": "",
             "url": "http://osh-ble0001",
             "location":{
-                "lat": 0.0,
-                "lon": 0.0,
+                "lat": 34.252051,
+                "lon": -86.201186,
                 "alt": 0.0
             },
             "stockNum": "0197",
@@ -16,8 +16,8 @@
             "id": "",
             "url": "http://osh-ble0002",
             "location":{
-                "lat": 0.0,
-                "lon": 0.0,
+                "lat": 34.252060,
+                "lon": -86.201232,
                 "alt": 0.0
             },
             "stockNum": "0194",
@@ -27,8 +27,8 @@
             "id": "",
             "url": "http://osh-ble0003",
             "location":{
-                "lat": 0.0,
-                "lon": 0.0,
+                "lat": 34.251915,
+                "lon": -86.201224,
                 "alt": 0.0
             },
             "stockNum": "0200",
@@ -38,8 +38,8 @@
             "id": "",
             "url": "http://osh-ble0004",
             "location":{
-                "lat": 0.0,
-                "lon": 0.0,
+                "lat": 34.252016,
+                "lon": -86.201184,
                 "alt": 0.0
             },
             "stockNum": "0198",
@@ -49,8 +49,8 @@
             "id": "",
             "url": "http://osh-ble0005",
             "location":{
-                "lat": 0.0,
-                "lon": 0.0,
+                "lat": 34.252021,
+                "lon": -86.201267,
                 "alt": 0.0
             },
             "stockNum": "0192",
