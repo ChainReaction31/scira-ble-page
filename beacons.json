@@ -1,0 +1,60 @@
+{
+    "description": "Describes the BLE Beacons for the SCIRA Project",
+    "beacons": [
+        {
+            "id": "",
+            "url": "http://osh-ble0001",
+            "location":{
+                "lat": 0.0,
+                "lon": 0.0,
+                "alt": 0.0
+            },
+            "stockNum": "0197",
+            "macAddress":""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0002",
+            "location":{
+                "lat": 0.0,
+                "lon": 0.0,
+                "alt": 0.0
+            },
+            "stockNum": "0194",
+            "macAddress":""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0003",
+            "location":{
+                "lat": 0.0,
+                "lon": 0.0,
+                "alt": 0.0
+            },
+            "stockNum": "0200",
+            "macAddress":""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0004",
+            "location":{
+                "lat": 0.0,
+                "lon": 0.0,
+                "alt": 0.0
+            },
+            "stockNum": "0198",
+            "macAddress": ""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0005",
+            "location":{
+                "lat": 0.0,
+                "lon": 0.0,
+                "alt": 0.0
+            },
+            "stockNum": "0192",
+            "macAddress": ""
+        }
+    ]
+}
