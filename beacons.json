@@ -7,7 +7,7 @@
             "location":{
                 "lat": 34.252051,
                 "lon": -86.201186,
-                "alt": 0.0
+                "alt": 283
             },
             "stockNum": "0197",
             "macAddress":""
@@ -18,7 +18,7 @@
             "location":{
                 "lat": 34.252060,
                 "lon": -86.201232,
-                "alt": 0.0
+                "alt": 283
             },
             "stockNum": "0194",
             "macAddress":""
@@ -29,7 +29,7 @@
             "location":{
                 "lat": 34.251915,
                 "lon": -86.201224,
-                "alt": 0.0
+                "alt": 283
             },
             "stockNum": "0200",
             "macAddress":""
@@ -40,7 +40,7 @@
             "location":{
                 "lat": 34.252016,
                 "lon": -86.201184,
-                "alt": 0.0
+                "alt": 283
             },
             "stockNum": "0198",
             "macAddress": ""
@@ -51,7 +51,7 @@
             "location":{
                 "lat": 34.252021,
                 "lon": -86.201267,
-                "alt": 0.0
+                "alt": 283
             },
             "stockNum": "0192",
             "macAddress": ""
