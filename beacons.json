@@ -47,14 +47,25 @@
         },
         {
             "id": "",
-            "url": "http://osh-ble0005",
+            "url": "http://osh-ble0011",
             "location":{
                 "lat": 34.252021,
                 "lon": -86.201267,
                 "alt": 283
             },
-            "stockNum": "0192",
+            "stockNum": "0210",
             "macAddress": ""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0012",
+            "location":{
+                "lat": 34.251915,
+                "lon": -86.201224,
+                "alt": 283
+            },
+            "stockNum": "0209",
+            "macAddress":""
         }
     ]
 }
