@@ -115,23 +115,45 @@
             "id": "",
             "url": "http://osh-ble0011",
             "location":{
-                "lat": 34.252021,
-                "lon": -86.201267,
+                "lat": 34.665928,
+                "lon": -86.780422,
                 "alt": 283
             },
-            "stockNum": "0210",
+            "stockNum": "0204",
             "macAddress": ""
         },
         {
             "id": "",
             "url": "http://osh-ble0012",
             "location":{
-                "lat": 34.251915,
-                "lon": -86.201224,
+                "lat": 34.665859,
+                "lon": -86.780382,
                 "alt": 283
             },
-            "stockNum": "0209",
+            "stockNum": "0205",
             "macAddress":""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0013",
+            "location":{
+                "lat": 34.665823,
+                "lon": -86.780362,
+                "alt": 283
+            },
+            "stockNum": "0206",
+            "macAddress": ""
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0014",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": ""
         }
     ]
 }
