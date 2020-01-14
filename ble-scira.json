@@ -71,7 +71,7 @@
             },
             "stockNum": "0193",
             "macAddress":"",
-            "roomDesc":"3F Entrance"
+            "roomDesc":""
         },
         {
             "id": "",
@@ -83,7 +83,7 @@
             },
             "stockNum": "0196",
             "macAddress":"",
-            "roomDesc":"3F West"
+            "roomDesc":"300W"
         },
         {
             "id": "",
@@ -95,7 +95,7 @@
             },
             "stockNum": "0199",
             "macAddress":"",
-            "roomDesc":"3F South"
+            "roomDesc":"300S"
         },
         {
             "id": "",
@@ -107,7 +107,7 @@
             },
             "stockNum": "0191",
             "macAddress":"",
-            "roomDesc":"3F East"
+            "roomDesc":"300E"
         },
         {
             "id": "",
@@ -119,7 +119,7 @@
             },
             "stockNum": "0195",
             "macAddress":"",
-            "roomDesc":"3F Room 300"
+            "roomDesc":"300"
         },
         {
             "id": "",
@@ -131,7 +131,7 @@
             },
             "stockNum": "0204",
             "macAddress": "",
-            "roomDesc":"3F Conference 1"
+            "roomDesc":"302"
         },
         {
             "id": "",
@@ -143,7 +143,7 @@
             },
             "stockNum": "0205",
             "macAddress":"",
-            "roomDesc":"3F Electrical"
+            "roomDesc":"305"
         },
         {
             "id": "",
@@ -167,7 +167,7 @@
             },
             "stockNum": "0207",
             "macAddress": "",
-            "roomDesc":"3F Breakroom"
+            "roomDesc":"304"
         },
         {
             "id": "",
@@ -239,7 +239,19 @@
             },
             "stockNum": "0207",
             "macAddress": "",
-            "roomDesc":"Guard Station"
+            "roomDesc":"B1 Engineering Entrance"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0021",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0209",
+            "macAddress": "",
+            "roomDesc":"301"
         }
     ]
 }
