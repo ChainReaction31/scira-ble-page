@@ -1,0 +1,245 @@
+{
+    "description": "Describes the BLE Beacons for the SCIRA Project",
+    "beacons": [
+        {
+            "id": "",
+            "url": "http://osh-ble0001",
+            "location":{
+                "lat": 34.665951,
+                "lon": -86.780304,
+                "alt": 283
+            },
+            "stockNum": "0197",
+            "macAddress":"",
+            "roomDesc":"Atrium Washington"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0002",
+            "location":{
+                "lat": 34.665979,
+                "lon": -86.780331,
+                "alt": 283
+            },
+            "stockNum": "0194",
+            "macAddress":"",
+            "roomDesc":"Atrium Fire Control"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0003",
+            "location":{
+                "lat": 34.665948,
+                "lon": -86.780380,
+                "alt": 283
+            },
+            "stockNum": "0200",
+            "macAddress":"",
+            "roomDesc":"1F Stairs"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0004",
+            "location":{
+                "lat": 34.252016,
+                "lon": -86.201184,
+                "alt": 283
+            },
+            "stockNum": "0198",
+            "macAddress": "",
+            "roomDesc":"2F Stairs"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0005",
+            "location":{
+                "lat": 34.665945,
+                "lon": -86.780355,
+                "alt": 283
+            },
+            "stockNum": "0192",
+            "macAddress": "",
+            "roomDesc":"3F Stairs"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0006",
+            "location":{
+                "lat": 34.665897,
+                "lon": -86.780279,
+                "alt": 283
+            },
+            "stockNum": "0193",
+            "macAddress":"",
+            "roomDesc":"3F Entrance"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0007",
+            "location":{
+                "lat": 34.665945,
+                "lon": -86.780316,
+                "alt": 283
+            },
+            "stockNum": "0196",
+            "macAddress":"",
+            "roomDesc":"3F West"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0008",
+            "location":{
+                "lat": 34.665849,
+                "lon": -86.780336,
+                "alt": 283
+            },
+            "stockNum": "0199",
+            "macAddress":"",
+            "roomDesc":"3F South"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0009",
+            "location":{
+                "lat": 34.665858,
+                "lon": -86.780323,
+                "alt": 283
+            },
+            "stockNum": "0191",
+            "macAddress":"",
+            "roomDesc":"3F East"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0010",
+            "location":{
+                "lat": 34.665900,
+                "lon": -86.780354,
+                "alt": 283
+            },
+            "stockNum": "0195",
+            "macAddress":"",
+            "roomDesc":"3F Room 300"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0011",
+            "location":{
+                "lat": 34.665928,
+                "lon": -86.780422,
+                "alt": 283
+            },
+            "stockNum": "0204",
+            "macAddress": "",
+            "roomDesc":"3F Conference 1"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0012",
+            "location":{
+                "lat": 34.665859,
+                "lon": -86.780382,
+                "alt": 283
+            },
+            "stockNum": "0205",
+            "macAddress":"",
+            "roomDesc":"3F Electrical"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0013",
+            "location":{
+                "lat": 34.665823,
+                "lon": -86.780362,
+                "alt": 283
+            },
+            "stockNum": "0206",
+            "macAddress": "",
+            "roomDesc":"None"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0014",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"3F Breakroom"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0015",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"B1 Pump Control"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0016",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"B1 Stairs 2"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0017",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"B1 Hall"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0018",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"Back Entrance - Stairway"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0019",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"B1 Stairway Hall"
+        },
+        {
+            "id": "",
+            "url": "http://osh-ble0020",
+            "location":{
+                "lat": 34.665892,
+                "lon": -86.780401,
+                "alt": 283
+            },
+            "stockNum": "0207",
+            "macAddress": "",
+            "roomDesc":"Guard Station"
+        }
+    ]
+}
