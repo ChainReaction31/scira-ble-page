@@ -71,7 +71,7 @@
             },
             "stockNum": "0193",
             "macAddress":"",
-            "roomDesc":""
+            "roomDesc":"Pump Room Door"
         },
         {
             "id": "",
@@ -177,7 +177,7 @@
                 "lon": -86.780401,
                 "alt": 0
             },
-            "stockNum": "0207",
+            "stockNum": "0201",
             "macAddress": "",
             "roomDesc":"B1 Pump Control"
         },
@@ -189,7 +189,7 @@
                 "lon": -86.780401,
                 "alt": 0
             },
-            "stockNum": "0207",
+            "stockNum": "0210",
             "macAddress": "",
             "roomDesc":"B1 Stairs 2"
         },
@@ -201,7 +201,7 @@
                 "lon": -86.780401,
                 "alt": 0
             },
-            "stockNum": "0207",
+            "stockNum": "0211",
             "macAddress": "",
             "roomDesc":"B1 Hall"
         },
@@ -213,7 +213,7 @@
                 "lon": -86.780401,
                 "alt": 0
             },
-            "stockNum": "0207",
+            "stockNum": "0202",
             "macAddress": "",
             "roomDesc":"Back Entrance - Stairway"
         },
@@ -225,7 +225,7 @@
                 "lon": -86.780401,
                 "alt": 0
             },
-            "stockNum": "0207",
+            "stockNum": "0203",
             "macAddress": "",
             "roomDesc":"B1 Stairway Hall"
         },
@@ -237,9 +237,9 @@
                 "lon": -86.780401,
                 "alt": 0
             },
-            "stockNum": "0207",
+            "stockNum": "0208",
             "macAddress": "",
-            "roomDesc":"B1 Engineering Entrance"
+            "roomDesc":"Elevators 1F"
         },
         {
             "id": "",
